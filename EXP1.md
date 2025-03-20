@@ -1,4 +1,4 @@
-# Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
+![Screenshot 2025-03-20 084353](https://github.com/user-attachments/assets/5cc62e66-8366-457f-a7f0-1517a48860bf)# Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
 ### DATE:20/03/25                                                                    
 ### REGISTER NUMBER :212224240131 
@@ -93,19 +93,22 @@ iterate()
 ```
 ### Output:
 ## 1.do..while:
-![Screenshot 2025-03-13 083535](https://github.com/user-attachments/assets/78bf7c0e-78d2-4363-9539-294a1b1c78ab)
+![Screenshot 2025-03-20 084353](https://github.com/user-attachments/assets/b16c4c9e-fc9a-4588-8904-00b31b13f954)
+
 ## 2.While..do:
 
-![Screenshot 2025-03-13 084004](https://github.com/user-attachments/assets/980721da-3964-4354-a6a4-b1169fb9361b)
-## 3.switch:
+![Screenshot 2025-03-20 084757](https://github.com/user-attachments/assets/2aceedbd-8756-47b3-b66c-085bafae74dd)
 
-![Screenshot 2025-03-13 084332](https://github.com/user-attachments/assets/49a0c523-27ef-4789-9917-c3fbde05c9b0)
+## 3.switch:
+![Screenshot 2025-03-20 084908](https://github.com/user-attachments/assets/a9785faa-8522-45fe-949b-c66c470b29ea)
 
 ## 4.if..else:
-![Screenshot 2025-03-13 084607](https://github.com/user-attachments/assets/7a1f2f2f-b761-4537-80f6-77dd5cf1211d)
- ## 5.for:
- ![Screenshot 2025-03-13 085011](https://github.com/user-attachments/assets/52361184-0521-4a6d-9e8a-29fb73ff4e2a)
+![Screenshot 2025-03-20 085056](https://github.com/user-attachments/assets/dda4c812-43ec-4e54-9c72-98f6e8312f53)
 
+ ## 5.for:
+
+
+![Screenshot 2025-03-20 085150](https://github.com/user-attachments/assets/4b2a705c-9acb-4883-9396-92a829ed23b9)
 
 
 
