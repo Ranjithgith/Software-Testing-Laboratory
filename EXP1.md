@@ -1,4 +1,4 @@
-![Screenshot 2025-03-20 084353](https://github.com/user-attachments/assets/5cc62e66-8366-457f-a7f0-1517a48860bf)# Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
+# Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
 ### DATE:20/03/25                                                                    
 ### REGISTER NUMBER :212224240131 
