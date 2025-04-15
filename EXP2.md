@@ -19,6 +19,7 @@ Algorithm:
 
 
 
+![2 code](https://github.com/user-attachments/assets/6d1803a1-47ba-41ba-9750-b969d50236c2)
 
 
 
@@ -31,8 +32,10 @@ Algorithm:
 
 ### Output:
 
+![1 output](https://github.com/user-attachments/assets/15b54341-e39d-4618-aecf-dc46b8cddab8)
 
 
+![2 output](https://github.com/user-attachments/assets/e8f93d95-f0da-420f-b9d7-27e3e00d5660)
 
 
 
